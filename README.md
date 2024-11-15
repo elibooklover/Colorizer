@@ -5,7 +5,9 @@ The Colorizer app colorizes black and white images. Colorize your monochrome mem
 <a href="https://apps.apple.com/us/app/colorizer-colorize-photos/id6590601683">
   <img src="https://elibooklover.github.io/Colorizer/appstore.png" alt="appstore" width="128"/>
 </a>
-<img src="https://elibooklover.github.io/Colorizer/playstore.png" alt="playstore" width="128"/>
+<a href="https://play.google.com/store/apps/details?id=com.hoyeolkim.colorizer&pcampaignid=web_share">
+  <img src="https://elibooklover.github.io/Colorizer/playstore.png" alt="playstore" width="128"/>
+</a>
 
 ![](https://elibooklover.github.io/Colorizer/ColorizerDemo.gif)
 
